@@ -2,6 +2,10 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+<<<<<<< HEAD
+=======
+.utmp/
+>>>>>>> be6f1bd (Primeiro commit - adicionando arquivos iniciais)
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
