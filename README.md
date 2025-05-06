@@ -15,7 +15,7 @@ This is a **Metroidvania prototype** featuring a **boss fight** with relatively 
 ![Gameplay Screenshot 2](https://github.com/user-attachments/assets/0fecf908-8715-45e1-8131-038c6d3a21eb)  
 ![Gameplay Screenshot 3](https://github.com/user-attachments/assets/d8632844-49f9-426a-a876-d4a0019ddda9)  
 
-## 🚀 Try the Game!  
+## 🚀 Play the Game!  
 You can play the game for free on **[Itch.io](https://kenzyps.itch.io/metroidvania-bossfight)**.  
 
 ## 🔧 Future Plans  
