@@ -1,6 +1,6 @@
 # Metroidvania  
 
-A **Metroidvania**-style game developed as a personal project to learn new game development techniques and improve my skills with the C# language.  
+A **Metroidvania**-style game developed as a personal project to learn new game development techniques and improve my skills with Game Development and C# language.  
 
 ## 🎮 About the Game  
 This is a **Metroidvania prototype** featuring a **boss fight** with relatively simple mechanics. The game focuses on and combat, and I plan to expand it with more features in the future.  
